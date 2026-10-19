@@ -5,6 +5,9 @@ A beginner-friendly Python project created as part of my internship tasks.
 
 The application combines a number guessing game with a text file word counter and frequency analyzer.
 
+
+Demo Link: https://number-guessing-word-counter-t6nuokhbmkzmaeb4zs7int.streamlit.app/
+
 ## ✨ Features
 
 ### Number Guessing Game
